@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_removeAll">Remove All Movies</string>
+    <string name="refresh_popular_movies">The list of popular movies have been refreshed</string>
+    <string name="search_query_empty">Please enter a movie title</string>
+    <string name="no_internet">Sorry, there is no internet connection.</string>
+    <string name="movie_removed">The movie has been removed from your favourites list!</string>
+    <string name="movie_added">The movie has been added to your favourites list!</string>
+    <string name="movie_duplicate">The movie is already in your favourites list!</string>
+    <string name="all_movies_removed">Successfully cleared your favourites list!</string>
+    <string name="hint_search">Enter a movie title</string>
+    <string name="fragment_popular">Popular</string>
+    <string name="fragment_search">Search</string>
+    <string name="fragment_favourites">Favourites</string>
+    <string name="EXTRA_MOVIE_ID">MOVIE_ID</string>
+    <string name="EXTRA_CALLED_FROM_FAVOURITES">CALLED_FROM_FAVOURITES</string>
+
+    <string name="main_notification_channel_name">NOTIFICATIONS</string>
+
+    <string name="notifications_key">notifications</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="notifications_on">You will receive notifications</string>
+    <string name="notifications_off">You will not receive notifications</string>
+    <string name="notification_title">New movie is out! </string>
+    <string name="notification_turn_off">Turn off Notifications</string>
+    <string name="notification_add_to_favourites">Add movie to favourites</string>
+
+    <string name="language_key">language</string>
+    <string name="language_title">Language</string>
+    <string name="language_default_value">en-US</string>
+
+    <string name="lang_en_title">English</string>
+    <string name="lang_en_value">en-US</string>
+
+    <string name="lang_bg_title">Bulgarian</string>
+    <string name="lang_bg_value">bg-BG</string>
+
+    <string name="lang_fr_title">French</string>
+    <string name="lang_fr_value">fr-FR</string>
+
+    <string name="lang_de_title">German</string>
+    <string name="lang_de_value">de-DE</string>
+
+    <string name="lang_ru_title">Russian</string>
+    <string name="lang_ru_value">ru-RU</string>
+</resources>
